@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.log
+*/*.log
+*__pycache__
+*/.tags*
+*nohup.out
+build/*
+dist/*
+rep_preload.egg-info/*
